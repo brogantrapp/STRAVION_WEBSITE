@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 84" role="img" aria-labelledby="title desc">
+  <title id="title">Stravion Aerospace</title>
+  <desc id="desc">Stravion Aerospace Raven fixed-wing aircraft insignia and wordmark</desc>
+  <g fill="none" stroke="#e9edf2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 32c17-6 37-7 57-6l31-15h14L89 27l37 1 11-11h5l-8 14 8 2-8 2 7 9h-5l-8-9H84L58 54H43l24-19c-22 1-43 1-57-3Z"/>
+    <path d="M39 31h36" stroke-width="1.2" opacity=".55"/>
+  </g>
+  <text x="164" y="37" fill="#f0f3f7" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="4.2">STRAVION</text>
+  <text x="165" y="61" fill="#8f98a6" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="600" letter-spacing="5.5">AEROSPACE</text>
+</svg>
