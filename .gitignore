@@ -1,0 +1,6 @@
+# Local inquiry captures and Python artifacts
+inquiries.json
+__pycache__/
+*.py[cod]
+*.tmp
+.env
