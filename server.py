@@ -35,10 +35,10 @@ if os.path.exists(PRODUCTS_FILE) and not os.path.exists(DEFAULT_BACKUP):
     shutil.copyfile(PRODUCTS_FILE, DEFAULT_BACKUP)
 
 MEDIA_FILES = {
-    "/media/fullscale/Stravion_UAV_fullscale_demo.mp4": os.path.join(
+    "/fullscale/Stravion_UAV_fullscale_demo.mp4": os.path.join(
         PROJECT_ROOT, "fullscale", "Stravion_UAV_fullscale_demo.mp4"
     ),
-    "/media/retro/Stravion_UAV_1996_preview.mp4": os.path.join(
+    "/retro/Stravion_UAV_1996_preview.mp4": os.path.join(
         PROJECT_ROOT, "retro", "Stravion_UAV_1996_preview.mp4"
     ),
 }
